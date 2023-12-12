@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/russr-dev/russr-dev/output/snake.svg" alt="Snake animation" />
+
 
 ###
